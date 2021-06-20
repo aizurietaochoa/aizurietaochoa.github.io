@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lawsuit Incoming!!! GGs"
+title: "Lawsuit Incoming!!!"
 categories: jekyll update
 ---
 
